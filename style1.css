@@ -1,0 +1,58 @@
+
+.phone-textarea{
+    font-size: 40px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid grey;
+}
+
+.first-name{
+
+    font-size: 40px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid grey;
+
+}
+
+.last-name{
+
+    
+    font-size: 40px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid grey;
+    
+}
+
+.address{
+
+     
+    font-size: 40px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid grey;
+    
+}
+
+.email{
+    
+    font-size: 40px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid grey;
+    
+}
+
+.button1{
+
+    border: 2px solid grey;
+    border-radius: 30px;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 50px;
+    background-color: pink;
+    padding: 30px;
+
+
+}
